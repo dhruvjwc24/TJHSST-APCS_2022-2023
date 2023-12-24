@@ -1,0 +1,15 @@
+{
+    "java.project.outputPath": "02 Recursion/05 ExpressionEvaluator/bin",
+    "java.project.sourcePaths": [
+        "06 Stacks & Queues/03 InfixPostfixEval",
+        "05 Collections/05 AuthorsNovels",
+        "05 Collections/04 IteratorLab",
+        "04 ListNode/03 Josephus",
+        "04 ListNode/02 ListLabReverse",
+        "04 ListNode/01 ListLab1",
+        "03 Big-O & Sorting/01 Searches",
+        "02 Recursion/05 ExpressionEvaluator",
+        "02 Recursion/04 AreaFill",
+        "06 Stacks & Queues/05 Cashiers Simulation"
+    ]
+}

@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch InfixPostfixEval",
+            "request": "launch",
+            "mainClass": "InfixPostfixEval",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch AuthorsNovels",
+            "request": "launch",
+            "mainClass": "AuthorsNovels",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch AuthorsNovels_shell",
+            "request": "launch",
+            "mainClass": "AuthorsNovels_shell",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch IteratorLab",
+            "request": "launch",
+            "mainClass": "IteratorLab",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Josephus",
+            "request": "launch",
+            "mainClass": "Josephus",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListLabReverse",
+            "request": "launch",
+            "mainClass": "ListLabReverse",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ListLab1",
+            "request": "launch",
+            "mainClass": "ListLab1",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Searches_Driver",
+            "request": "launch",
+            "mainClass": "Searches_Driver",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch AreaFill",
+            "request": "launch",
+            "mainClass": "AreaFill",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch ExpressionEvaluator",
+            "request": "launch",
+            "mainClass": "ExpressionEvaluator",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Hailstone",
+            "request": "launch",
+            "mainClass": "Hailstone",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch MazeGrandMaster",
+            "request": "launch",
+            "mainClass": "MazeGrandMaster",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch NQueensDriver",
+            "request": "launch",
+            "mainClass": "NQueensDriver",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch Permutations",
+            "request": "launch",
+            "mainClass": "Permutations",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch WinnerWinner",
+            "request": "launch",
+            "mainClass": "WinnerWinner",
+            "projectName": "AP CS_2375207b"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "AP CS_2375207b"
+        }
+    ]
+}

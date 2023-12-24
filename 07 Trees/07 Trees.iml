@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/01 TreeLab" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/02 BXT" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/03 BST" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/04 BST remove" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05 BST AVL" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/05ext Red_Black tree" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/06 BST Generic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/07 TreePriorityQueue" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

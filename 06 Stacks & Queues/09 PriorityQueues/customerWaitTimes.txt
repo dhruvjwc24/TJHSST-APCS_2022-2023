@@ -1,0 +1,40 @@
+minute 0: 
+          1-Fr 
+          4-Fr 
+          
+minute 1: 
+          4-Fr 1-Fr 
+          3-Fr 
+          3-Fr 
+minute 2: 
+          3-Fr 1-Fr 
+          1-Fr 3-Fr 
+          1-Fr 3-Fr 
+minute 3: 
+          2-Fr 1-Fr 2-Fr 
+          2-Fr 3-Fr 1-Fr 
+          3-Fr 
+minute 4: 
+          1-Fr 1-Fr 2-Fr 
+          1-Fr 3-Fr 1-Fr 
+          1-Fr 3-Fr 3-Fr 
+minute 5: 
+          4-Fr 1-Fr 2-Fr 
+          1-Fr 5-Fr 3-Fr 
+          3-Fr 3-Fr 
+minute 6: 
+          3-Fr 4-Fr 2-Fr 1-Fr 
+          5-Fr 3-Fr 
+          1-Fr 3-Fr 3-Fr 
+minute 7: 
+          2-Fr 4-Fr 2-Fr 1-Fr 
+          4-Fr 3-Fr 3-Fr 5-Fr 
+          3-Fr 3-Fr 
+minute 8: 
+          1-Fr 4-Fr 2-Fr 1-Fr 
+          3-Fr 3-Fr 3-Fr 5-Fr 
+          3-Fr 6-Fr 3-Fr 3-Fr 
+minute 9: 
+          5-Fr 1-Fr 2-Fr 1-Fr 4-Fr 
+          5-Fr 3-Fr 3-Fr 5-Fr 3-Fr 
+          2-Fr 6-Fr 3-Fr 3-Fr 
